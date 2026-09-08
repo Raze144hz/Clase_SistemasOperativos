@@ -6,6 +6,7 @@ Autor: David Andres Galindo Rojas
 Fecha: 7 de septiembre del 2026
 Trabajo: Laboratorio de funciones con memoria
 
+
 *******************************************************************************/
 
 #include <stdio.h>
