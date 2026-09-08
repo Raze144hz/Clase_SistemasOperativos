@@ -1,0 +1,18 @@
+Autor: David Andres Galindo Rojas
+Fecha: 26 de agosto
+
+Localidad Espacial:
+La localidad espacial se refiere al principio en el cual siempre se aprovechan o usan las herramientas que se tenga alrededor, este 
+principio al aplicarlo a sis operativos se relaciona con la memoria.
+
+Localidad Temporal:
+La localidad espacial se refiere al principio donde algo que se va a usar puede que se deseche temporalmente, pero luego puede ser 
+utilizada
+
+
+Memoria Dinamica
+La memoria Dinamica hace parte de la memoria que se almacena y puede ser liberada puede cambiar
+ 
+
+Memoria Estatica
+La memoria estatica es aquella que en tiempo de ejecucion no cambia lo que se almacene
